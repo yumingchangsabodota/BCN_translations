@@ -367,8 +367,7 @@ class Ui_MainWindow(object):
                 self.textEdit_4_tx.setText(self.formatting_Text(Resultsignal))
                 self.btn_search_blk.setEnabled(True)
                 self.btn_search_tx.setEnabled(True)
-            #0659022
-            #新北市中和區華新街143巷106弄19號2F
+
     def formatting_Text(self, Resultsignal):
         if Resultsignal['method'] == "block":
             resultString = "Height: {}\nTimestamp: {}\nVersion: {}\nDifficulty: {}\nOrphan: {}\nTransaction: {}\nTotal coins in the network: {} trtl\nTotal transactions in the network: {}\n\nTotal transaction size, bytes: {}\nTotal block size, bytes: {}\nCurrent txs median, bytes: {}\nEffective txs median, bytes: {}\nReward penalty: {}%\nTransaction fee: {} trtl\nReward: {}\n\n"
