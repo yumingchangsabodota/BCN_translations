@@ -1,6 +1,7 @@
 # Local-Turtle-Explorer 2.0
 
 This 2.0 version uses kivy for its GUI.
+
 The choice of Kivy is just a personal adventure which I wanted to make something out of it.
 
 If you find any issue or have a request or suggestion please submit a new issue in the github repo.
@@ -8,7 +9,10 @@ If you find any issue or have a request or suggestion please submit a new issue 
 
 ## Overview
 
-![alt text](/readme_img/start_screen.PNG)
+Once you open the local explorer, it will take you to the start screen.
+
+Simply click start to start the program.
+![alt text](img/readme_img/start_screen.PNG)
 
 
 
