@@ -39,11 +39,11 @@ It is normal because there might not always be a pending transaction in the netw
 
 ### Search
 
-Click search at the button and it will take you to the search screen.
+Click search at the buttom and it will take you to the search screen.
 
 ![alt text](img/readme_img/Search_screen_empty.PNG)
 
-Just enter the hash or block height and you can beging to search.
+Just enter the hash or block height and you can begin to search.
 
 Search for block
 ![alt text](img/readme_img/Search_screen_block.PNG)
@@ -60,6 +60,12 @@ If you provide a invalid hash or height you will get an error
 
 
 
+##### Credits to:
 
-[Turtlecoin Repository](https://github.com/turtlecoin/turtle-explorer-desktop)
+[Turtlecoin](https://github.com/turtlecoin/turtle-explorer-desktop)
+
+[Kivy](https://kivy.org/#home)
+
+#### My Repo:
+
 [Sabo (Revolutionary)](https://github.com/yumingchangsabodota)
