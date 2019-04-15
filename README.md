@@ -62,10 +62,14 @@ If you provide a invalid hash or height you will get an error
 
 ##### Credits to:
 
-[Turtlecoin](https://github.com/turtlecoin/turtle-explorer-desktop)
+[Turtlecoin](https://github.com/turtlecoin)
 
 [Kivy](https://kivy.org/#home)
 
-#### My Repo:
+##### Find Turtle Local Explorer in Turtlecoin repo:
+
+[turtle-explorer-desktop](https://github.com/turtlecoin/turtle-explorer-desktop)
+
+##### My Repo:
 
 [Sabo (Revolutionary)](https://github.com/yumingchangsabodota)
