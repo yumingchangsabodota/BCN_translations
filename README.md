@@ -8,7 +8,7 @@ If you find any issue or have a request or suggestion please submit a new issue 
 
 ## Overview
 
-![alt text](/readme_img/start_screen.png)
+![alt text](/readme_img/start_screen.PNG)
 
 
 
