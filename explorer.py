@@ -91,7 +91,7 @@ class Turtle_Explorer(threading.Thread):
                 if height < netHeight:
                     self.txPool = None
                     self.blocks = None
-                    self.can_search = False
+                    #self.can_search = False
                     explorer_logger.info('Local Explorer has lower height than network.')
                 else:
                     self.txPool = self.turtlecoind.get_transaction_pool()['result']['transactions']
